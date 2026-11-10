@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+.DS_Store
+experiment_data/
+furhat_folder/experiment_data/
